@@ -16,5 +16,6 @@ const newItem = _.flattenDeep(item);
 console.log(newItem);
 console.log("Hello World");
 console.log("Hello People");
+console.log("Hello Users");
 
 // -D or --save-dev   (for dev dependency)
